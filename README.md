@@ -31,7 +31,7 @@ The project uses multiple datasets:
 - date_lookup.csv
 - traffic_data.csv
 
-🔗 **[Download Excel Dataset](./excel/traffic_data-adwords.Positions-us.xlsx)**
+🔗 **[Download Excel Dataset](excel/traffic_data-adwords.Positions-us.xlsx)**
 
 🔗 **[View traffic_data Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/traffic_data.csv )**
 
