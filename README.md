@@ -31,25 +31,25 @@ The project uses multiple datasets:
 - date_lookup.csv
 - traffic_data.csv
 
-🔗 **[View Excel Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/excel/traffic_data-adwords.Positions-us.xlsx)**
+🔗 **[Download Excel Dataset](./excel/traffic_data-adwords.Positions-us.xlsx)**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/csv/main/main_table.csv )**
+🔗 **[View traffic_data Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/traffic_data.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/keyword_lookup.csv )**
+🔗 **[View main_table Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/main_table.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/search_volume_lookup.csv )**
+🔗 **[View keyword_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/keyword_lookup.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/traffic_lookup.csv )**
+🔗 **[View search_volume_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/search_volume_lookup.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/search_metrics_lookup.csv )**
+🔗 **[View traffic_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/traffic_lookup.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/competition_lookup.csv )**
+🔗 **[View search_metrics_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/search_metrics_lookup.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/difficulty_lookup.csv )**
+🔗 **[View competition_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/competition_lookup.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/date_lookup.csv )**
+🔗 **[View difficulty_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/difficulty_lookup.csv )**
 
-🔗 **[View Customers Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/traffic_data.csv )**
+🔗 **[View date_lookup Dataset](https://github.com/dimple-shah-au13/Traffic-Data-Adwords-Analysis/blob/main/csv/date_lookup.csv )**
 
 ---
 
@@ -282,14 +282,14 @@ Highlights dominant vs low-impact keywords
 
 ## 🎛️ Filters & Interactivity
 
-🔍 Keyword slicer
-📅 Date slicer (Year / Month)
-📊 Last Seen filter
-🎯 Keyword Difficulty filter
-🔝 Top N keyword selection
-🔎 Drill-down (Year → Month → Day)
-* Cross-filtering across all visuals
-* Drill-down capabilities
+* 🔍 Keyword slicer
+* 📅 Date slicer (Year / Month)
+* 📊 Last Seen filter
+* 🎯 Keyword Difficulty filter
+* 🔝 Top N keyword selection
+* 🔎 Drill-down (Year → Month → Day)
+* 🔥 Cross-filtering across all visuals
+* 🔥 Drill-down capabilities
 
 ---
 
